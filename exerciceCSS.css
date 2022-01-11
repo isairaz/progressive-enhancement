@@ -1,0 +1,151 @@
+
+body {
+    width: 80vw;
+    margin:0  auto;
+    background-color: #B5CACB;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v960-ning-30.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&auto=format&ixlib=js-2.2.1&s=e43a2f27ef68a4e782d43c48640e7155);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom right;   
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+p {
+    font-family: serif;
+    line-height: 25px;
+    font-size: 1.25rem;
+    color: rgb(27, 26, 26);
+    
+}
+
+a {
+    color: blue;
+
+}
+a:hover {
+    color: red;
+}
+a:visited {
+    color: purple;
+}
+q {
+    
+    margin: auto;
+    font-size: 160%;
+    background-color: rgb(180, 177, 177);
+    border-left:solid 3px firebrick;
+    display: block;
+    width: 50vw;
+    padding:80px 30px ;
+    font-style: italic;
+    
+}
+.villageois {
+    border-left: solid green;
+}
+.fermier {
+    border-left: solid red;
+}
+table  td em {
+    background-color: gray;
+    text-transform: uppercase;
+    color: red;
+    
+}
+table  td i {
+    background-color: white;
+    text-transform: uppercase;
+    color:green;
+    
+}
+table th em {
+    text-transform: uppercase;
+}
+ ul li:first-child {
+    background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Johnson-7/main/1.The-Field/Day%2005/bien.png?token=GHSAT0AAAAAABPRQSPB6WDFNRRYNQ3IYW2EYPFQFOQ);
+    background-repeat: no-repeat;
+    background-position: 340px -2px;
+    
+    
+    
+    
+    
+}
+ul li {
+    line-height: 61px;
+    font-size: 1.25rem;
+}
+ul li:nth-child(2) {
+    background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Johnson-7/main/1.The-Field/Day%2005/bien.png?token=GHSAT0AAAAAABPRQSPB6WDFNRRYNQ3IYW2EYPFQFOQ);
+    background-repeat: no-repeat;
+    background-position: 340px -2px;
+}
+ul li:nth-child(3) {
+    background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Johnson-7/main/1.The-Field/Day%2005/chat.png?token=GHSAT0AAAAAABPRQSPB4QLKH6AXE7WBFCEMYPFQTIQ);
+    background-repeat: no-repeat;
+    background-position: 340px -2px;
+
+}
+ body p:first-of-type{
+    font-weight: bold;
+    background-color: gray;
+}
+.imgArroundTheText {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.imgArroundTheText img:first-of-type  {
+    width: 25vw;
+    margin-top: 35px;
+}
+.imgArroundTheText div:nth-child(2) {
+    width: 45vw;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.imgArroundTheText div:nth-child(1) {
+    display: inline-block;
+}
+.imgArroundTheText div p {
+    font-size: 1rem;
+    
+}
+.imgArroundTheText2 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.imgArroundTheText2 div:nth-child(1) {
+    display: block;
+}
+.imgArroundTheText2 div:nth-child(2) {
+    display: block;
+    width: 40vw;
+}
+.imgArroundTheText2 div img {
+    width: 25vw;
+    margin-top: 42px;
+}
+.imgArroundTheText2 div p {
+    font-size: 1rem;
+}
+.imgArroundTheText3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.imgArroundTheText3 div:nth-child(1) {
+    display: block;
+
+}
+.imgArroundTheText3 div:nth-child(2) {
+    display: block;
+}
+
+
+
+
+
