@@ -87,10 +87,11 @@ ul li:nth-child(3) {
     background-position: 340px -2px;
 
 }
- body p:first-of-type{
+header p:first-of-type {
     font-weight: bold;
     background-color: gray;
 }
+
 .imgArroundTheText {
     display: flex;
     justify-content: space-evenly;
